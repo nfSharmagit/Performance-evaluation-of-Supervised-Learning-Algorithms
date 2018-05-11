@@ -1,5 +1,4 @@
 # SLAComparison
-Performance evaluation of Supervised Learning Algorithms
 While performing data prediction using Machine Learning algorithms, choosing the best algorithm to use for a specific analytical task can be a challenge. While you can use different algorithms to perform the same business task, each algorithm produces a different result, and some algorithms can produce more than one type of result.
 
 The project evaluates the performance of supervised machine learning algorithms. Four algorithms Random Forest, SVM, Decision tree, k-NN were evaluated on four different data-sets to get
